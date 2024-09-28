@@ -16,7 +16,7 @@ name = "cloudflare-docker-proxy"
 #   { pattern = "docker.viehub.pro", custom_domain = true },
 #   { pattern = "quay.viehub.pro", custom_domain = true },
 #   { pattern = "gcr.viehub.pro", custom_domain = true },
-#   { pattern = "k8s-gcr.viehub.pro.so", custom_domain = true },
+#   { pattern = "k8s-gcr.viehub.pro", custom_domain = true },
 #   { pattern = "k8s.viehub.pro", custom_domain = true },
 #   { pattern = "ghcr.viehub.pro", custom_domain = true },
 #   { pattern = "cloudsmith.viehub.pro", custom_domain = true },
